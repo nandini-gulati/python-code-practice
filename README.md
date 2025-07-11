@@ -21,4 +21,21 @@ The repository includes Python scripts covering:
 
 ---
 
+## 🎓 About Me
+
+Hi! I'm **Nandini Gulati**, a 1st year B.Tech student at **UPES**, passionate about coding and software development.  
+This repo marks the beginning of my programming journey. Feel free to explore and suggest improvements! 😊
+
+---
+
+## 🤝 Contributions
+
+If you find any bugs or would like to add improvements, feel free to open an issue or pull request.  
+Constructive feedback is always welcome!
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
 
